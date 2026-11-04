@@ -189,7 +189,7 @@ VS Code reads titles/view names at activation — reload the window. Everything 
 
 |                            WeChat reward code                             |                            Alipay payment code                             |
 | :-----------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| <img src="media/sponsor/wechat.png" width="230" alt="WeChat reward code"> | <img src="media/sponsor/alipay.png" width="230" alt="Alipay payment code"> |
+| <img src="/sponsor/wechat.png" width="230" alt="WeChat reward code"> | <img src="/sponsor/alipay.png" width="230" alt="Alipay payment code"> |
 
 <!-- sponsor:qr:end -->
 
@@ -350,7 +350,7 @@ When reporting an issue, include the container name, what you did, and the relat
 
 |                            微信赞赏码                             |                            支付宝收款码                             |
 | :---------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| <img src="media/sponsor/wechat.png" width="230" alt="微信赞赏码"> | <img src="media/sponsor/alipay.png" width="230" alt="支付宝收款码"> |
+| <img src="/sponsor/wechat.png" width="230" alt="微信赞赏码"> | <img src="/sponsor/alipay.png" width="230" alt="支付宝收款码"> |
 
 <!-- sponsor:qr:end -->
 
