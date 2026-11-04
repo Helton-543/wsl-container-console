@@ -1,4 +1,4 @@
-# WSLC Container Console
+# WSL Manager
 
 Manage WSL containers (`wslc`) inside VS Code: status, start/stop, live logs, port probes and `wslc run` reconstruction — without memorising CLI flags.
 
